@@ -99,6 +99,23 @@ img {
   margin-bottom:10px;
 }
 
+/* BLOCCO STEPS */
+#steps .row>.left,
+#steps .row>.central,
+#steps .row>.right {
+  float: left;
+  width: 100%;
+  margin-top: 26px;
+}
+
+#steps {
+  text-align: center;
+}
+
+#steps h1{
+  padding-bottom:10px;
+} 
+
 /* COMMON */
 
 *{
